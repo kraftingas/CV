@@ -6,19 +6,21 @@ I am a full-stack software developer based in Vilnius, Lithuania.
 
 ### Skills
 
+* Administration with Active Admin and RailsAdmin 
 * Agile values, principles and practice
 * CSS3 and Sass
 * Deployment to Heroku
 * Google Polymer
+* Graph API usage through Koala
 * HTML5
 * Javascript, jQuery and AJAX
 * Object oriented principles and design
 * Pair programming
 * PHP
 * PostgreSQL and MySQL
-* Rails
 * Ruby
-* TDD with RSpec, FactoryGirl
+* Ruby on Rails
+* TDD with RSpec, FactoryBot
 * User authentication with Devise
 * Version control with git and GitHub
 
